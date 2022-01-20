@@ -1,8 +1,6 @@
-# Task Manager 
-**Task Manager app permits you to add your today and upcoming tasks and delete any done task.**
+# News_app
+**News application permits you to see list of news - and read detailed event if you want - in fields like business, science and sports.**  
 
 # Screenshots
-![MergedImages](https://user-images.githubusercontent.com/47532331/150421912-7dc21736-786a-49fd-83eb-4d3966b2fbdb.png)
+![MergedImages(1)](https://user-images.githubusercontent.com/47532331/150424223-6b9a3575-8e67-43ba-a460-6322c84929e2.png)
 
-
-![MergedImages](https://user-images.githubusercontent.com/47532331/150421308-72a1be10-959d-4318-b7d7-fb365651c651.png)
